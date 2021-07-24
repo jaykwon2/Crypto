@@ -29,7 +29,7 @@ https://www.kaggle.com/sudalairajkumar/cryptocurrencypricehistory
 
 <br><br>
 <ins>Historic Bitcoin Price:</ins>
-<img src="BTC.png">
+<img src="./images/BTC.png">
 - 2 major bubbles: 2017 and 2021
 - BTC tracks entire crypto market well
 - note on scale: Bitcoin(BTC) in the 34,000 USD, Ethereum 2,100 USD, Cardano 1.21 USD , Dogecoin 0.19 USD
@@ -38,21 +38,21 @@ https://www.kaggle.com/sudalairajkumar/cryptocurrencypricehistory
 <br/>
 
 <ins>Cryptocurrencies by Marketcap and Volume</ins><br/>
-<img src="marketcap.png"><img src="volume.png"><br/>
+<img src="./images/marketcap.png"><img src="./images/volume.png"><br/>
 - coins with the largest marketcaps: Bitcoin (46%), Ethereum (17%), Tether (4.8%), Binance Coin (4.0%), Cardano (2.9%)
 - largest average daily volume: Tether, Bitcoin, Ethereum, XRP, Litecoin
 
 <br/><br/>
 
 <ins>Correlation Matrix of Cryptocurrency Prices:</ins><br/>
-<img src="correlation.png">
+<img src="./images/correlation.png">
 - stable coins (Tether, USDCoin) are uncorrelated or negatively correlated with other coins
 - coins with the highest correlations: Polkadot, Uniswap, Cosmos, Ethereum all have correlations that are > 0.90
 
 <br/><br/>
 
 <ins>Standardized Movements of 5 most correlated Coins</ins>
-<img src="standardized.png" >
+<img src="./images/standardized.png" >
 - Legend:
     - Bitcoin (2013): blue
     - Ethereum (2015): green
@@ -63,7 +63,7 @@ https://www.kaggle.com/sudalairajkumar/cryptocurrencypricehistory
 <br/><br/>
 
 <ins>Standardized Movements of last 500 days</ins>
-<img src="standardized_500.png">
+<img src="./images/standardized_500.png">
 - can visually confirm that that highly correlated coins track together
 
 <br/><br/>
